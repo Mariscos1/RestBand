@@ -34,7 +34,7 @@ ul:hover{
 .mainName {
   position: absolute;
   left: 200px;
-  top: 67%;
+  top: 65%;
   width: 100%;
   text-align: left;
   color: #000;
@@ -42,8 +42,8 @@ ul:hover{
 
 .catchphrase{
   position: absolute;
-  left: 200px;
-  top: 70%;
+  left: 230px;
+  top: 72%;
   width:100%;
   text-align: left;
   color: #000;
