@@ -31,6 +31,23 @@ ul:hover{
 
 }
 
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: left;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
 li {
     float: left;
 }
@@ -44,5 +61,5 @@ li a {
 }
 
 li a:hover {
-    background-color: #01487e;
+    background-color: #71487e;
 }
