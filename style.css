@@ -33,8 +33,8 @@ ul:hover{
 
 .caption {
   position: absolute;
-  left: 0;
-  top: 50%;
+  left: 200px;
+  top: 67%;
   width: 100%;
   text-align: left;
   color: #000;
