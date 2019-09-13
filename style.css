@@ -31,11 +31,20 @@ ul:hover{
 
 }
 
-.caption {
+.mainName {
   position: absolute;
   left: 200px;
   top: 67%;
   width: 100%;
+  text-align: left;
+  color: #000;
+}
+
+.catchphrase{
+  position: absolute;
+  left: 200px;
+  top: 70%;
+  width:100%;
   text-align: left;
   color: #000;
 }
