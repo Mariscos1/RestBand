@@ -3,6 +3,16 @@ a {
    text-decoration: none;
 }
 
+html{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+  body{
+  max-width: 100%;
+  overflow-x: hidden;
+   margin:0;
+   font-family: 'Sawarabi Mincho', sans-serif;
+}
 
 .mainPageImage {
 background-image: url("Background.png");
